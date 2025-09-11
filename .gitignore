@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Keep this file
+!.gitignore
+
+# Allow nvim
+!nvim/
+!nvim/**
+
+# Allow caelestia
+!caelestia/
+!caelestia/**
+
+# Allow hypr
+!hypr/
+!hypr/**
