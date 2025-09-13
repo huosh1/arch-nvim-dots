@@ -1,4 +1,4 @@
-# Arch + Hyprland + Neovim Dots
+# Arch + Hyprland + Zathura + Neovim Dots
 
 Minimal setup for **Arch Linux**, with **Hyprland**, **Caelestia theme**, and a **clean Neovim config**.
 
