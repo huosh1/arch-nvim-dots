@@ -1,0 +1,25 @@
+# =========================
+# Zathura Catppuccin Soft (moins bleuté)
+# =========================
+
+# Arrière-plan (transparent si ton WM supporte)
+set recolor "true"
+set recolor-keephue "true"
+set recolor-darkcolor "#1e1e2e"   # fond très sombre
+set selection-clipboard clipboard
+
+set recolor-lightcolor "#e6dfd5"  # texte légèrement crème au lieu de blanc bleuté
+
+# Transparence
+set transparency 0.88   # un peu moins opaque que 0.85, plus doux
+
+# Couleurs UI adoucies
+# Fond par défaut transparent (laisse voir le wallpaper avec Hyprland)
+set default-bg "rgba(20,20,20,0.12)"
+set default-fg        "#d0d0e6"   # texte crème
+set inputbar-bg       "#1e1e2e"
+set inputbar-fg       "#f2d5cf"   # rose très pâle au lieu de rose flashy
+set statusbar-bg      "#1e1e2e"
+set statusbar-fg      "#a6adc8"   # gris clair neutre (au lieu de bleu vif)
+set highlight-color   "#e5c890"   # jaune sable doux (au lieu de rose vif)
+set highlight-active-color "#f4b8e4" # rose pastel (au lieu de jaune acide)
